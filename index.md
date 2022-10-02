@@ -77,7 +77,9 @@ cout << "My name is: " << name << endl;
 
 - [ ] Agree
 - [ ] Disagree
+- [ ] Add new stuff
 - [ ] Not Satisfied
+
 
 
 
