@@ -1,7 +1,11 @@
 
 # My name is **Roman** 
 
-![my image](https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1)
+
+<picture>
+    <source media="(picture-my: light)" srcset="https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1">
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-business-man-free1.png?ssl=1">
+</picture>
 
 
 ## I am a **Software Engineer!**
@@ -21,7 +25,6 @@
 
 </br>
 
-`#0969DA`
 ~~~
 string name;
 
@@ -33,15 +36,53 @@ cout << "My name is: " << name << endl;
 
 ~~~
 
-
-
 [External Link](https://github.com/topics)
-
-
 
 [Section Link](#my-name-is-roman)
 
-[Link to README file](docs/../README.md)
+[Relative Link to README file](docs/../README.md)
+
+
+
+## Ordered List
+- 1 Team A.
+- 2 Team B.
+- 3 Team C.
+
+## Unordered List
+
+- Team A.
+- Team B.
+- Team C.
+
+## Nested List
+
+- 1 Team A.
+  - John
+    - Julia
+    - Jason
+- 2 Team B.
+  - Jack
+  - Ashley
+  - Raj
+- 3 Team C.
+  - Sam
+  - Sosan
+  - Suggot
+
+
+
+
+## Task List
+
+- [ ] Agree
+- [ ] Disagree
+- [ ] Not Satisfied
+
+
+
+
+
 
 
 
